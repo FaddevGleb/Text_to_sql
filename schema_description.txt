@@ -1,0 +1,2 @@
+Таблица: departments(id, name)
+Таблица: employees(id, name, position, salary, department_id)
